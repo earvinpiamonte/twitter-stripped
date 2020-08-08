@@ -41,3 +41,7 @@ component {
 If you found an issue or you have some recommendation, send me an email at [earvin.piamonte@gmail.com](mailto:earvin.piamonte@gmail.com).
 
 If you are a developer and have a GitHub account, you may submit an issue at [https://github.com/earvinpiamonte/twitter-stripped-chrome/issues/new](https://github.com/earvinpiamonte/twitter-stripped-chrome/issues/new).
+
+## Extension icon
+
+Twitter icon made by [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect) from [www.flaticon.com](https://www.flaticon.com/).
