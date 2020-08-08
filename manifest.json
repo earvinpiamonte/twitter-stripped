@@ -1,0 +1,12 @@
+{
+  "name": "Twitter Stripped",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Minimal Twitter experience for web.",
+  "content_scripts": [
+    {
+      "css": ["app.css"],
+      "matches": ["https://twitter.com/*"]
+    }
+  ]
+}

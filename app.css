@@ -1,0 +1,13 @@
+[data-testid="sidebarColumn"],
+[data-testid="DMDrawer"],
+[data-testid="AppTabBar_Explore_Link"],
+[data-testid="SideNav_NewTweet_Button"],
+[data-testid="SideNav_AccountSwitcher_Button"] > div:last-child,
+[data-testid="retweet"] > div span,
+[data-testid="unretweet"] > div span,
+[data-testid="like"] > div span,
+[data-testid="unlike"] > div span,
+[data-testid="reply"] > div span,
+[data-testid="socialContext"]{
+    display: none !important;
+}
