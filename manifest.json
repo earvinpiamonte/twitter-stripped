@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "manifest_version": 2,
   "description": "Minimal Twitter experience for web.",
+  "icons": {
+    "512": "icon512.png"
+  },
   "content_scripts": [
     {
       "css": ["app.css"],
