@@ -4,6 +4,10 @@
   "manifest_version": 2,
   "description": "Minimal Twitter experience for web.",
   "icons": {
+    "16": "icon16.png",
+    "32": "icon32.png",
+    "48": "icon48.png",
+    "120": "icon120.png",
     "512": "icon512.png"
   },
   "content_scripts": [
