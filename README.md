@@ -1,8 +1,20 @@
-## Twitter Stripped
+# Twitter Stripped
 
 A Google Chrome extension for minimal [Twitter](https://twitter.com/) experience for web.
 
 The extension removes components that are less important than just reading the feed (at least for me).
+
+### Before
+
+![alt text](screenshot-1.jpg "Twitter web screenshot 1")
+
+### After
+
+![alt text](screenshot-2.jpg "Twitter web screenshot 2")
+
+### White display color
+
+![alt text](screenshot-3.jpg "Twitter web screenshot 2")
 
 ## Install
 
