@@ -14,7 +14,7 @@ The extension removes components that are less important than just reading the f
 
 ### White display color
 
-![alt text](screenshot-3.jpg "Twitter web screenshot 2")
+![alt text](screenshot-3.jpg "Twitter web screenshot 3")
 
 ## Install
 
