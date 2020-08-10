@@ -2,7 +2,7 @@
 
 A Google Chrome extension for minimal [Twitter](https://twitter.com/) experience for web.
 
-This project was initially for my personal use. Trends, who to follow, and the messages tab are too noisy for me so I decied to build this extension to remove those.
+This project was initially for my personal use. Trends, who to follow, and the messages tab are too noisy for me so I decided to build this extension to remove those.
 
 The [extension](https://chrome.google.com/webstore/detail/twitter-stripped/joekhilngfhflafcfahdbjdcoibnhgld) removes components that are less important than just reading the feed (at least for me :wink ).
 
