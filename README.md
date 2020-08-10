@@ -2,7 +2,7 @@
 
 A Google Chrome extension for minimal [Twitter](https://twitter.com/) experience for web.
 
-The extension removes components that are less important than just reading the feed (at least for me).
+The [extension](https://chrome.google.com/webstore/detail/twitter-stripped/joekhilngfhflafcfahdbjdcoibnhgld) removes components that are less important than just reading the feed (at least for me).
 
 ### Before
 
@@ -12,13 +12,11 @@ The extension removes components that are less important than just reading the f
 
 ![alt text](screenshot-2.jpg "Twitter web screenshot 2")
 
-### White display color
-
 ![alt text](screenshot-3.jpg "Twitter web screenshot 3")
 
 ## Install
 
-(link to Google Web Store)
+Get the extension at [https://chrome.google.com/webstore/detail/twitter-stripped/joekhilngfhflafcfahdbjdcoibnhgld](https://chrome.google.com/webstore/detail/twitter-stripped/joekhilngfhflafcfahdbjdcoibnhgld).
 
 ## Removes the following components:
 
