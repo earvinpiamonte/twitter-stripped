@@ -2,7 +2,9 @@
 
 A Google Chrome extension for minimal [Twitter](https://twitter.com/) experience for web.
 
-The [extension](https://chrome.google.com/webstore/detail/twitter-stripped/joekhilngfhflafcfahdbjdcoibnhgld) removes components that are less important than just reading the feed (at least for me).
+This project was initially for my personal use. Trends, who to follow, and the messages tab are too noisy for me so I decied to build this extension to remove those.
+
+The [extension](https://chrome.google.com/webstore/detail/twitter-stripped/joekhilngfhflafcfahdbjdcoibnhgld) removes components that are less important than just reading the feed (at least for me :wink ).
 
 ### Before
 
@@ -33,6 +35,12 @@ Get the extension at [https://chrome.google.com/webstore/detail/twitter-stripped
 - who liked a Tweet
 - who retweeted a Tweet
 - footer
+
+## Benefits
+
+- Your decision to like and retweet will always be based on the content of the Tweet instead of depending on the numbers/ counter.
+- You won't be distracted with the trends. Less stress IMO.
+- You won't be able to see the annoying "Messages" tab. Who decided to put this and didn't put a close button ?!
 
 ## How it works?
 
