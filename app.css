@@ -1,13 +1,63 @@
-[data-testid="sidebarColumn"],
+/* Hide components */
 [data-testid="DMDrawer"],
-[data-testid="AppTabBar_Explore_Link"],
 [data-testid="SideNav_NewTweet_Button"],
-[data-testid="SideNav_AccountSwitcher_Button"] > div:last-child,
 [data-testid="retweet"] > div span,
 [data-testid="unretweet"] > div span,
 [data-testid="like"] > div span,
 [data-testid="unlike"] > div span,
 [data-testid="reply"] > div span,
-[data-testid="socialContext"]{
+[data-testid="socialContext"],
+[data-testid="SideNav_AccountSwitcher_Button"] > div svg {
+  display: none !important;
+}
+
+/* Hide right column but first section */
+[data-testid="sidebarColumn"]
+  > div
+  > div:last-child
+  > div
+  > div
+  > div
+  > div:not(:first-child) {
+  display: none;
+}
+
+/* Desktop view */
+@media (min-width: 1280px) {
+  /* Set primary nav to have 20% width */
+  nav[aria-label="Primary"] {
+    max-width: 20%;
+  }
+
+  /* Hide trending link on left column */
+  [data-testid="AppTabBar_Explore_Link"] {
     display: none !important;
+  }
+}
+
+/* Hide nav menu item labels */
+nav[aria-label="Primary"] > a > div > div + div,
+[data-testid="AppTabBar_More_Menu"] > div > div + div {
+  display: none;
+}
+
+/* Hide search input placeholder */
+[data-testid="SearchBox_Search_Input"]::-webkit-input-placeholder {
+  color: transparent !important;
+}
+
+[data-testid="SearchBox_Search_Input"]::-moz-placeholder {
+  color: transparent !important;
+}
+
+[data-testid="SearchBox_Search_Input"]:-ms-input-placeholder {
+  color: transparent !important;
+}
+
+[data-testid="SearchBox_Search_Input"]:-moz-placeholder {
+  color: transparent !important;
+}
+
+[data-testid="SearchBox_Search_Input"]::placeholder {
+  color: transparent !important;
 }
