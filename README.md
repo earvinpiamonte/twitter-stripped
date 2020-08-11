@@ -8,13 +8,13 @@ The [extension](https://chrome.google.com/webstore/detail/twitter-stripped/joekh
 
 ### Before
 
-![alt text](screenshot-1.jpg "Twitter web screenshot 1")
+![alt text](images/screenshot-1.jpg "Twitter web screenshot 1")
 
 ### After
 
-![alt text](screenshot-2.jpg "Twitter web screenshot 2")
+![alt text](images/screenshot-2.jpg "Twitter web screenshot 2")
 
-![alt text](screenshot-3.jpg "Twitter web screenshot 3")
+![alt text](images/screenshot-3.jpg "Twitter web screenshot 3")
 
 ## Install
 
