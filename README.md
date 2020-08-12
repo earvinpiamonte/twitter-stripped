@@ -8,7 +8,7 @@ The [extension](https://chrome.google.com/webstore/detail/twitter-stripped/joekh
 
 ### Screenshot
 
-![alt text](images/screenshot-latest.jpg "Twitter web screenshot 1")
+![alt text](images/screenshot-2.jpg "Twitter web screenshot 1")
 
 ## Install
 
@@ -38,7 +38,7 @@ Get the extension at [https://chrome.google.com/webstore/detail/twitter-stripped
 
 ## How it works?
 
-The extension removes the components by setting each of the element's `display` property to `none`.
+The extension hides the components by setting each of the element's `display` property to `none`.
 
 eg.
 
