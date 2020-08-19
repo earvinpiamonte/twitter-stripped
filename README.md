@@ -10,6 +10,8 @@ The [extension](https://chrome.google.com/webstore/detail/twitter-stripped/joekh
 
 ![alt text](images/screenshot-2.jpg "Twitter web screenshot 1")
 
+It's so preeeetty :)
+
 ## Install
 
 Get the extension at [https://chrome.google.com/webstore/detail/twitter-stripped/joekhilngfhflafcfahdbjdcoibnhgld](https://chrome.google.com/webstore/detail/twitter-stripped/joekhilngfhflafcfahdbjdcoibnhgld).
