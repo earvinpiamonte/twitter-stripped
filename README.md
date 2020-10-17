@@ -45,7 +45,7 @@ The extension hides the components by setting each of the element's `display` pr
 eg.
 
 ```css
-component {
+element {
   display: none !important;
 }
 ```
